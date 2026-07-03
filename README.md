@@ -48,3 +48,6 @@ Unlock the true power of the ESP32 by building local network hubs and cloud-conn
 *   **Step 08: IoT & Cloud Integration**
     *   Build local HTTP/Web Servers to serve interactive HTML dashboards.
     *   Explore lightweight telemetry routing protocols like MQTT.
+ 
+## Contact & Support
+For questions or hardware discussions, feel free to reach out via Discord: `odai.7`
