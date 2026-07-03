@@ -13,15 +13,15 @@ Before diving into wireless networks, you must master how the microcontroller in
 *   **Step 02: Digital I/O (GPIO Essentials)**
     *   Learn how to configure pins as inputs and outputs.
     *   Handle tactile buttons using proper hardware or software debouncing.
-    *   *Reference Project:* See `ESP32-Mastery-Hub` -> `GPIO_Basics.cpp`.
+    *   *Reference Project:* See `ESP32-Mastery-Hub-EN` -> `GPIO_Basics.cpp`.
 *   **Step 03: PWM & Analog Signals**
     *   Understand the ESP32 `ledc` hardware peripheral for pulse-width modulation.
     *   Control LED dimming and master servo motor angular positioning.
-    *   *Reference Project:* See `ESP32-Mastery-Hub` -> `PWM_Control.cpp`.
+    *   *Reference Project:* See `ESP32-Mastery-Hub-EN` -> `PWM_Control.cpp`.
 *   **Step 04: Analog-to-Digital Conversion (ADC)**
     *   Read voltage variations from analog sensors (potentiometers, photoresistors).
     *   Understand the native 12-bit resolution boundary (0 - 4095).
-    *   *Reference Project:* See `ESP32-Mastery-Hub` -> `ADC_Reading.cpp`.
+    *   *Reference Project:* See `ESP32-Mastery-Hub-EN` -> `ADC_Reading.cpp`.
 
 ---
 
@@ -44,7 +44,7 @@ Unlock the true power of the ESP32 by building local network hubs and cloud-conn
 *   **Step 07: Local Network Architecture**
     *   Configure the board in Station Mode (connecting to routers) vs. Access Point Mode (hosting its own network).
     *   Implement **DNS Servers** and **Captive Portals** to intercept user queries.
-    *   *Reference Project:* See `ESP32-DNS-Captive-Portal`.
+    *   *Reference Project:* See `ESP32-DNS-Captive-Portal-EN`.
 *   **Step 08: IoT & Cloud Integration**
     *   Build local HTTP/Web Servers to serve interactive HTML dashboards.
     *   Explore lightweight telemetry routing protocols like MQTT.
